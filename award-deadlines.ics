@@ -1,0 +1,974 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rouven Konstanzer//Award-Deadlines//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Award-Deadlines
+X-WR-CALDESC:Fristen\, Shortlists und Verleihungen der wichtigsten Kreativ-
+ Awards. Mit ≈ markierte Termine sind geschätzt.
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cannes-lions-einreichstart-2027-01-14@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Cannes Lions · Einreichstart
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nEinreichung für
+  Cannes Lions 2027 öffnet.\n\nQuelle: https://www.canneslions.com/awards/
+ awards-support/dates-and-fees
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://www.canneslions.com/awards/awards-support/dates-and-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:cannes-lions-preisstufe-1-endet-2027-03-04@award-deadlines.rouvenkonsta
+ nzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Cannes Lions · Preisstufe 1 endet
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nDanach gelten h
+ öhere Gebühren.\n\nQuelle: https://www.canneslions.com/awards/awards-sup
+ port/dates-and-fees
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.canneslions.com/awards/awards-support/dates-and-fees
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Cannes Lions: Preisstufe 1 endet in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Cannes Lions: Preisstufe 1 endet in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cannes-lions-preisstufe-2-endet-2027-03-18@award-deadlines.rouvenkonsta
+ nzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Cannes Lions · Preisstufe 2 endet
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nDanach steigen d
+ ie Gebühren erneut.\n\nQuelle: https://www.canneslions.com/awards/awards-
+ support/dates-and-fees
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.canneslions.com/awards/awards-support/dates-and-fees
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Cannes Lions: Preisstufe 2 endet in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Cannes Lions: Preisstufe 2 endet in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cannes-lions-preisstufe-3-endet-2027-04-01@award-deadlines.rouvenkonsta
+ nzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Cannes Lions · Preisstufe 3 endet
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nLetzte Stufe vor
+  der finalen Deadline.\n\nQuelle: https://www.canneslions.com/awards/award
+ s-support/dates-and-fees
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.canneslions.com/awards/awards-support/dates-and-fees
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Cannes Lions: Preisstufe 3 endet in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Cannes Lions: Preisstufe 3 endet in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cannes-lions-finale-deadline-2027-04-08@award-deadlines.rouvenkonstanze
+ r
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Cannes Lions · Finale Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\n23:59 Uhr Ortsze
+ it Cannes. Zulassungszeitraum meist 1. Februar 2026 bis 8. April 2027.\n\n
+ Quelle: https://www.canneslions.com/awards/awards-support/dates-and-fees
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.canneslions.com/awards/awards-support/dates-and-fees
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Cannes Lions: Finale Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Cannes Lions: Finale Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cannes-lions-festival-2027-06-21@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270626
+SUMMARY:Cannes Lions · Festival
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nFestival und Ver
+ leihungen in Cannes.\n\nQuelle: https://www.canneslions.com/awards/awards-
+ support/dates-and-fees
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://www.canneslions.com/awards/awards-support/dates-and-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:d-ad-frist-30-rabatt-2026-12-16@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:D&AD · Frist 30 % Rabatt
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nZahlung bis 9. D
+ ezember\, Einreichung abschließen bis 16. Dezember 2026. Physische Einsen
+ dungen bis 13. Januar 2027.\n\nQuelle: https://www.dandad.org/awards/d-ad-
+ awards
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.dandad.org/awards/d-ad-awards
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:D&AD: Frist 30 % Rabatt in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:D&AD: Frist 30 % Rabatt in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d-ad-frist-20-rabatt-2027-02-17@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:D&AD · Frist 20 % Rabatt
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nZahlung bis 10. 
+ Februar\, Einreichung abschließen bis 17. Februar 2027.\n\nQuelle: https:
+ //www.dandad.org/awards/d-ad-awards
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.dandad.org/awards/d-ad-awards
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:D&AD: Frist 20 % Rabatt in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:D&AD: Frist 20 % Rabatt in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d-ad-frist-10-rabatt-2027-03-17@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:D&AD · Frist 10 % Rabatt
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nZahlung bis 10. 
+ März\, Einreichung abschließen bis 17. März 2027.\n\nQuelle: https://ww
+ w.dandad.org/awards/d-ad-awards
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.dandad.org/awards/d-ad-awards
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:D&AD: Frist 10 % Rabatt in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:D&AD: Frist 10 % Rabatt in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d-ad-finale-deadline-2027-04-14@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:D&AD · Finale Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nZahlung bis 7. A
+ pril\, Einreichung abschließen bis 14. April 2027. Physische Einsendungen
+  bis 21. April.\n\nQuelle: https://www.dandad.org/awards/d-ad-awards
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.dandad.org/awards/d-ad-awards
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:D&AD: Finale Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:D&AD: Finale Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d-ad-shortlist-2027-05-26@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:D&AD · Shortlist
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nQuelle: https://
+ www.dandad.org/awards/d-ad-awards
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://www.dandad.org/awards/d-ad-awards
+END:VEVENT
+BEGIN:VEVENT
+UID:d-ad-verleihung-2027-06-28@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:D&AD · Verleihung
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nAward Ceremony u
+ nd Bekanntgabe der Pencils.\n\nQuelle: https://www.dandad.org/awards/d-ad-
+ awards
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://www.dandad.org/awards/d-ad-awards
+END:VEVENT
+BEGIN:VEVENT
+UID:the-one-show-advance-deadline-2026-12-11@award-deadlines.rouvenkonstanz
+ er
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:The One Show · Advance Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nGünstigste Stuf
+ e. Die Gebühren steigen mit jeder Frist.\n\nQuelle: https://oneshow.org/d
+ ates/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://oneshow.org/dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:The One Show: Advance Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:The One Show: Advance Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-one-show-early-deadline-2027-01-22@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:The One Show · Early Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nQuelle: https://
+ oneshow.org/dates/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://oneshow.org/dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:The One Show: Early Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:The One Show: Early Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-one-show-standard-deadline-2027-02-12@award-deadlines.rouvenkonstan
+ zer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:The One Show · Standard Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nQuelle: https://
+ oneshow.org/dates/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://oneshow.org/dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:The One Show: Standard Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:The One Show: Standard Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-one-show-final-deadline-2027-03-05@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:The One Show · Final Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nDanach nur noch 
+ mit Late Fee.\n\nQuelle: https://oneshow.org/dates/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://oneshow.org/dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:The One Show: Final Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:The One Show: Final Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-one-show-creative-week-new-york-2027-05-10@award-deadlines.rouvenko
+ nstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:≈ The One Show · Creative Week New York (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt: 2025 und 2026 lag die Creative Week Mitte Mai
+ \, die Show am Freitag. Termin 2027 noch nicht bestätigt.\n\nQuelle: http
+ s://creativeweek.com
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://creativeweek.com
+END:VEVENT
+BEGIN:VEVENT
+UID:adc-deutschland-early-bird-10-rabatt-2026-11-26@award-deadlines.rouvenk
+ onstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:ADC Deutschland · Early Bird (10 % Rabatt)
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nFür Arbeiten au
+ s 2026. Die Seite des ADC ist noch teils mit 2026 beschriftet\, bitte vor 
+ dem Einreichen prüfen.\n\nQuelle: https://www.adc.de/wettbewerb/adc-wettb
+ ewerb-2027/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.adc.de/wettbewerb/adc-wettbewerb-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:ADC Deutschland: Early Bird (10 % Rabatt) in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:ADC Deutschland: Early Bird (10 % Rabatt) in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adc-deutschland-teilnahmeschluss-arbeiten-2026-2027-02-18@award-deadlin
+ es.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:ADC Deutschland · Teilnahmeschluss Arbeiten 2026
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nReguläre Einrei
+ chung für Arbeiten aus 2026. Mit 20 % Late Fee bis 4. März 2027.\n\nQuel
+ le: https://www.adc.de/wettbewerb/adc-wettbewerb-2027/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.adc.de/wettbewerb/adc-wettbewerb-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:ADC Deutschland: Teilnahmeschluss Arbeiten 2026 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:ADC Deutschland: Teilnahmeschluss Arbeiten 2026 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adc-deutschland-late-fee-arbeiten-2026-schluss-arbeiten-2027-2027-03-04
+ @award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:ADC Deutschland · Late Fee Arbeiten 2026 / Schluss Arbeiten 2027
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nLetzte Chance f
+ ür Arbeiten aus 2026 (mit Late Fee). Regulärer Schluss für Arbeiten\, d
+ ie vom 1. Januar bis 15. Februar 2027 veröffentlicht wurden.\n\nQuelle: h
+ ttps://www.adc.de/wettbewerb/adc-wettbewerb-2027/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.adc.de/wettbewerb/adc-wettbewerb-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:ADC Deutschland: Late Fee Arbeiten 2026 / Schluss Arbeiten 2027
+  in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:ADC Deutschland: Late Fee Arbeiten 2026 / Schluss Arbeiten 2027
+  in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adc-deutschland-late-fee-arbeiten-2027-2027-03-18@award-deadlines.rouve
+ nkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:ADC Deutschland · Late Fee Arbeiten 2027
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nMit Late Fee\, f
+ ür Arbeiten aus 2027.\n\nQuelle: https://www.adc.de/wettbewerb/adc-wettbe
+ werb-2027/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.adc.de/wettbewerb/adc-wettbewerb-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:ADC Deutschland: Late Fee Arbeiten 2027 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:ADC Deutschland: Late Fee Arbeiten 2027 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adc-deutschland-adc-festival-hamburg-2027-06-09@award-deadlines.rouvenk
+ onstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270611
+SUMMARY:≈ ADC Deutschland · ADC Festival Hamburg (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt: 2025 und 2026 lag das Festival Mitte Juni in 
+ Hamburg. Termin 2027 noch nicht bestätigt.\n\nQuelle: https://www.adc.de
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://www.adc.de
+END:VEVENT
+BEGIN:VEVENT
+UID:adc-europe-gala-barcelona-2026-11-20@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:ADC Europe · Gala Barcelona
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nADCE Awards Gala
+  zum Abschluss der ADCE Creative Week.\n\nQuelle: https://adceurope.awardh
+ ub.org/dates/
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://adceurope.awardhub.org/dates/
+END:VEVENT
+BEGIN:VEVENT
+UID:adc-europe-deadline-2027-2027-09-24@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:≈ ADC Europe · Deadline 2027 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (Deadline 25. September 2026)
+ . Termin 2027 noch nicht veröffentlicht.\n\nQuelle: https://adceurope.awa
+ rdhub.org/dates/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://adceurope.awardhub.org/dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:ADC Europe: Deadline 2027 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:ADC Europe: Deadline 2027 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eurobest-finale-deadline-2027-2027-10-14@award-deadlines.rouvenkonstanz
+ er
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:≈ Eurobest · Finale Deadline 2027 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (15. Oktober 2026\, Einreichs
+ tart August\, Late Fees ab Mitte September). Termin 2027 noch nicht veröf
+ fentlicht.\n\nQuelle: https://www.eurobest.com/support/eurobest-awards-ent
+ ry-guide
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.eurobest.com/support/eurobest-awards-entry-guide
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Eurobest: Finale Deadline 2027 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Eurobest: Finale Deadline 2027 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:epica-shortlist-2026-2026-11-25@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Epica · Shortlist 2026
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nQuelle: https://
+ registration.epica-awards.com/
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://registration.epica-awards.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:epica-verleihung-2026-2026-12-15@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Epica · Verleihung 2026
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nEndergebnisse am
+  16. Dezember.\n\nQuelle: https://registration.epica-awards.com/
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://registration.epica-awards.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:epica-early-bird-ende-2027-2027-09-01@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:≈ Epica · Early-Bird-Ende 2027 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (Early Bird bis 1. September 
+ 2026).\n\nQuelle: https://www.epica-awards.com/enter
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.epica-awards.com/enter
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Epica: Early-Bird-Ende 2027 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Epica: Early-Bird-Ende 2027 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:epica-finale-deadline-2027-2027-10-29@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:≈ Epica · Finale Deadline 2027 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (Late Entry bis 30./31. Oktob
+ er 2026).\n\nQuelle: https://www.epica-awards.com/enter
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.epica-awards.com/enter
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Epica: Finale Deadline 2027 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Epica: Finale Deadline 2027 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:clio-awards-2-deadline-2026-12-11@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Clio Awards · 2. Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\n23:59 Uhr EST\, 
+ in Deutschland also am 12. Dezember morgens. Die Gebühren steigen nach je
+ der Frist.\n\nQuelle: https://clios.com/the-clio-awards/entry-information/
+ key-dates/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://clios.com/the-clio-awards/entry-information/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Clio Awards: 2. Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Clio Awards: 2. Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:clio-awards-3-deadline-2027-01-15@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Clio Awards · 3. Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\n23:59 Uhr EST.\n
+ \nQuelle: https://clios.com/the-clio-awards/entry-information/key-dates/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://clios.com/the-clio-awards/entry-information/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Clio Awards: 3. Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Clio Awards: 3. Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:clio-awards-finale-deadline-2027-02-19@award-deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Clio Awards · Finale Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\n23:59 Uhr EST. P
+ hysische Einsendungen müssen bis dahin im Clio-Büro sein. Show im Mai 20
+ 27 in New York.\n\nQuelle: https://clios.com/the-clio-awards/entry-informa
+ tion/key-dates/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://clios.com/the-clio-awards/entry-information/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Clio Awards: Finale Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Clio Awards: Finale Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:red-dot-brands-communication-early-bird-ende-2027-2027-02-12@award-dead
+ lines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:≈ Red Dot Brands & Communication · Early-Bird-Ende 2027 (geschä
+ tzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (Early Bird 26. Januar bis 13
+ . Februar 2026).\n\nQuelle: https://www.red-dot.org/bcd/participate
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.red-dot.org/bcd/participate
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Red Dot Brands & Communication: Early-Bird-Ende 2027 in 14 Tage
+ n
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Red Dot Brands & Communication: Early-Bird-Ende 2027 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:red-dot-brands-communication-ende-regul-re-phase-2027-2027-04-23@award-
+ deadlines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:≈ Red Dot Brands & Communication · Ende reguläre Phase 2027 (ge
+ schätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (regulär bis 24. April 2026)
+ .\n\nQuelle: https://www.red-dot.org/bcd/participate
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.red-dot.org/bcd/participate
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Red Dot Brands & Communication: Ende reguläre Phase 2027 in 14
+  Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Red Dot Brands & Communication: Ende reguläre Phase 2027 in 2 
+ Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:red-dot-brands-communication-ende-latecomer-2027-2027-05-07@award-deadl
+ ines.rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:≈ Red Dot Brands & Communication · Ende Latecomer 2027 (geschät
+ zt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (Latecomer bis 8. Mai 2026).\
+ n\nQuelle: https://www.red-dot.org/bcd/participate
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.red-dot.org/bcd/participate
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Red Dot Brands & Communication: Ende Latecomer 2027 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Red Dot Brands & Communication: Ende Latecomer 2027 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:if-design-award-gewinner-2027-2027-02-24@award-deadlines.rouvenkonstanz
+ er
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:iF Design Award · Gewinner 2027
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nFinale Jury vom 
+ 16. bis 18. Februar 2027.\n\nQuelle: https://www.dezeen.com/competitions/i
+ f-design-award-2027/
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://www.dezeen.com/competitions/if-design-award-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:if-design-award-early-bird-ende-2028-2027-06-25@award-deadlines.rouvenk
+ onstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:≈ iF Design Award · Early-Bird-Ende 2028 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (26. Juni 2026). Gebühren 20
+ 27 waren 300 / 400 / 500 Euro pro Einreichung.\n\nQuelle: https://ifdesign
+ .com
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://ifdesign.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:iF Design Award: Early-Bird-Ende 2028 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:iF Design Award: Early-Bird-Ende 2028 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:if-design-award-regul-re-deadline-2028-2027-09-17@award-deadlines.rouve
+ nkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:≈ iF Design Award · Reguläre Deadline 2028 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (18. September 2026).\n\nQuel
+ le: https://ifdesign.com
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://ifdesign.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:iF Design Award: Reguläre Deadline 2028 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:iF Design Award: Reguläre Deadline 2028 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:if-design-award-finale-deadline-2028-2027-11-03@award-deadlines.rouvenk
+ onstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:≈ iF Design Award · Finale Deadline 2028 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (2. bzw. 4. November 2026).\n
+ \nQuelle: https://ifdesign.com
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://ifdesign.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:iF Design Award: Finale Deadline 2028 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:iF Design Award: Finale Deadline 2028 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:german-design-award-award-show-2027-2027-01-29@award-deadlines.rouvenko
+ nstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:German Design Award · Award Show 2027
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nVerleihung in Fr
+ ankfurt am Main.\n\nQuelle: https://www.german-design-award.com/en/news/de
+ tail/german-design-awards-2027-call-for-entries
+TRANSP:TRANSPARENT
+CATEGORIES:Termin
+URL:https://www.german-design-award.com/en/news/detail/german-design-awards
+ -2027-call-for-entries
+END:VEVENT
+BEGIN:VEVENT
+UID:german-design-award-einreichschluss-2028-2027-09-10@award-deadlines.rou
+ venkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:≈ German Design Award · Einreichschluss 2028 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt nach dem Vorjahr (11. September 2026). Gebühr
+ en steigen gestaffelt\, im Vorjahr ab Mitte Juni.\n\nQuelle: https://www.g
+ erman-design-award.com/en
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.german-design-award.com/en
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:German Design Award: Einreichschluss 2028 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:German Design Award: Einreichschluss 2028 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-multimedia-einreichschluss-2028-2027-08-27@award-deadlines.rouve
+ nkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:≈ Annual Multimedia · Einreichschluss 2028 (geschätzt)
+DESCRIPTION:Status: GESCHÄTZT\, noch nicht offiziell. Bitte vor dem Einrei
+ chen prüfen.\n\nGeschätzt: in den Vorjahren lag der Schluss Ende August 
+ (2025: 28. August). Termin noch nicht veröffentlicht.\n\nQuelle: https://
+ www.annual-multimedia.de
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://www.annual-multimedia.de
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Annual Multimedia: Einreichschluss 2028 in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Annual Multimedia: Einreichschluss 2028 in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:type-directors-club-tdc73-early-deadline-2027-01-22@award-deadlines.rou
+ venkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Type Directors Club (TDC73) · Early Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nGünstigste Stuf
+ e. Gebühren je nach Region.\n\nQuelle: https://enter.tdc.org/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://enter.tdc.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Type Directors Club (TDC73): Early Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Type Directors Club (TDC73): Early Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:type-directors-club-tdc73-standard-deadline-2027-02-12@award-deadlines.
+ rouvenkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Type Directors Club (TDC73) · Standard Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nQuelle: https://
+ enter.tdc.org/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://enter.tdc.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Type Directors Club (TDC73): Standard Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Type Directors Club (TDC73): Standard Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:type-directors-club-tdc73-final-deadline-2027-03-05@award-deadlines.rou
+ venkonstanzer
+DTSTAMP:20261107T101230Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Type Directors Club (TDC73) · Final Deadline
+DESCRIPTION:Status: bestätigt laut offizieller Quelle.\n\nGewinner werden 
+ im Mai 2027 bekanntgegeben.\n\nQuelle: https://enter.tdc.org/
+TRANSP:TRANSPARENT
+CATEGORIES:Frist
+URL:https://enter.tdc.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:Type Directors Club (TDC73): Final Deadline in 14 Tagen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Type Directors Club (TDC73): Final Deadline in 2 Tagen
+END:VALARM
+END:VEVENT
+END:VCALENDAR
